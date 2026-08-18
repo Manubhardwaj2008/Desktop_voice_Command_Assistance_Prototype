@@ -1,0 +1,3 @@
+@echo off
+cd /d "d:\Desktop\projects\assistance"
+python assistance.py
